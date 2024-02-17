@@ -48,9 +48,7 @@
   transition: 0.3s;
   font-family: "Gilroy-Medium";
   margin-left: var(--dl-space-space-twounits);
-  border-color: #ffffff;
-  border-width: 1px;
-  text-decoration: underline    none;
+  text-decoration: underline;
   border-top-width: 0px;
   border-left-width: 0px;
   border-right-width: 0px;
