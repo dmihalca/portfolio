@@ -155,6 +155,7 @@
   align-self: flex-start;
   align-items: flex-end;
   flex-direction: column;
+  align-self:center;
 }
 .about-me-image2 {
   width: 100%;
@@ -190,6 +191,7 @@
 }
 .about-me-link {
   text-decoration: underline;
+  color: #ffffff;
 }
 .about-me-text10 {
   color: rgb(255, 255, 255);
