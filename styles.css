@@ -1026,6 +1026,7 @@ scrollbar-width: none;
   font-size: 56px;
   font-family: "Gilroy-SemiBold";
   margin-bottom: var(--dl-space-space-fiveunits);
+  margin-top: 0;
 }
 .home-text-box1 {
   flex: 0 0 auto;
