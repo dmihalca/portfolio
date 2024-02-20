@@ -366,7 +366,7 @@ body{
   margin-top: var(--dl-space-space-fiveunits);
   align-items: flex-end;
   border-radius: 20px;
-  margin-bottom: var(--dl-space-space-fiveunits);
+  margin-bottom: 120px
   background-color: #ffffff;
 }
 .more-work-samples-text23 {
@@ -466,9 +466,9 @@ body{
   width: 1200px;
   height: auto;
   display: flex;
-  margin-top: var(--dl-space-space-fiveunits);
+  margin-top: 120px;
   align-items: center;
-  margin-bottom: var(--dl-space-space-fiveunits);
+  margin-bottom: 120px;
   flex-direction: column;
   justify-content: space-between;
 }
