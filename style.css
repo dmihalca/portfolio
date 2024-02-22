@@ -61,6 +61,9 @@
   border-radius: 4px;
   background-color: var(--dl-color-gray-white);
 }
+.button:hover{
+  opacity: 0.5;
+}
 .input {
   color: var(--dl-color-gray-black);
   cursor: auto;
