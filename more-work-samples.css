@@ -242,6 +242,11 @@ body{
   padding-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
+
+.more-work-samples-link:hover {
+opacity: 0.5;
+}
+
 .more-work-samples-text13 {
   font-size: 16px;
   font-family: "Gilroy-Medium";
